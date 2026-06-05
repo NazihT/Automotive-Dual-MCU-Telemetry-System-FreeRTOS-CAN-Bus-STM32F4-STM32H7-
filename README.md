@@ -6,7 +6,7 @@ This is a work in progress. Current state is documented per node. Planned featur
 
 ---
 
-## System Architecture
+## System  Architecture 
 
 ```
 ┌─────────────────────────────────────┐         ┌─────────────────────────────────────┐
